@@ -17,3 +17,5 @@ In this exercise, we will try to develop a novel method of Target Trial Emulatio
 7. Deadline is 2 weeks from today: February 28, 2025 at 11:59 pm.
 
 **HINT:** For those who dont have a thesis topic yet, you can actually develop a thesis topic out of this assignment.
+
+*"I  dont mind you use A.I. tools with this assignment, but if you do please include your prompts in the submission."*
