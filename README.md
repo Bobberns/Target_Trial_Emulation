@@ -14,7 +14,7 @@ In this exercise, we will try to develop a novel method of Target Trial Emulatio
 4. Using TTE-v2, think of a creative way on where you would integrate a clustering mechanism, understand each step carefully and decide at which step a clustering method can be implemented. Generate insights from your results.
 5. Do this by pair, preferably your thesis partner.
 6. Push to your github repository.
-7. Deadline is 2 weeks from today: February 28, 2025 at 11:59 pm.
+7. Deadlinw: March 09, 2025 at 11:59 pm.
 
 **HINT:** For those who dont have a thesis topic yet, you can actually develop a thesis topic out of this assignment.
 
