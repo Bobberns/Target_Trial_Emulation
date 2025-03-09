@@ -2,7 +2,7 @@
 
 There seems to be a rendering issue on how some of our markdown blocks are appearing in this repository's main - especially in the **TTE-v2.ipynb** file. Some blank spaces are present on areas on what should have been our markdown code should be in. Perhaps this may just be cross-checked with the **TTE-v1.ipynb** file. I think this is some bug? Everything looks fine on our local, it's just how the file seems to appear in the repo.
 
-Despite this, the code blocks where the clusters happen seems to render just fine in this repo so far. We're just not really sure how to fix the blank spaces issue; when in our local the entire file renders normally. We are working into it.
+Despite this, the code blocks where the clusters happen seems to render just fine in this repo so far. We're just not really sure how to fix the blank spaces issue; when in our local the entire file renders normally. We have been looking into it as soon as we noticed just very recently at 10:50PM.
 
 # [Assignment #3] Target Trial Emulation
 
